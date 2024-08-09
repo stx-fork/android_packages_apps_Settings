@@ -1536,8 +1536,6 @@
         </activity>
 
         <activity
-
-        <activity
             android:name="Settings$RefreshRateSettingsActivity"
             android:label="@string/refresh_rate_title"
             android:exported="true">
